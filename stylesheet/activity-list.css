@@ -74,3 +74,8 @@
     font-size: 16px;
     font-family: 'Effra', sans-serif;
 }
+
+#activity-list-v2 .activity {
+    max-width: 208px;
+    min-width: 208px;
+}
