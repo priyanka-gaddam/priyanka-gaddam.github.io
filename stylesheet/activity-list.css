@@ -83,3 +83,9 @@
 #activity-list-v2 {
     text-align: left;
 }
+
+@media only screen and (max-width: 668px) {
+    #activity-list-v2 {
+        text-align: left;
+    }
+}
