@@ -83,3 +83,21 @@
 #poll-v2 .success-message:first-child {
     display: none;
 }
+
+#poll-v2 .submit-container button {
+    float: left !important;
+    padding: 13px 36px !important;
+    border-radius: 4px !important;
+    text-transform: capitalize !important;
+    background-color: #00AF41 !important;
+    border: 1px solid #00AF41 !important;
+}
+
+#poll-v2 .submit-container button:hover {
+    float: left !important;
+    padding: 13px 36px !important;
+    border-radius: 4px !important;
+    text-transform: capitalize !important;
+    background-color: #009F3A !important;
+    border: 1px solid #009F3A !important;
+}
