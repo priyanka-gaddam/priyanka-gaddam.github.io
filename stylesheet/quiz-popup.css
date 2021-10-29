@@ -51,3 +51,7 @@
     display: flex;
     margin-top: 0px;
 }
+
+#quiz-v2 .defaultHeight {
+    min-height: 0px;
+}
