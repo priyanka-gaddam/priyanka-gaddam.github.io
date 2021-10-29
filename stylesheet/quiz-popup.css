@@ -45,3 +45,9 @@
 #quiz-v2 .notification-container {
     margin-top: 0px !important;
 }
+
+#quiz-v2 .buttons {
+    align-items: center;
+    display: flex;
+    margin-top: 0px;
+}
