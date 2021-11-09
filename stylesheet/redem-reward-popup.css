@@ -137,3 +137,10 @@
 #redeem-v2 #review .email-address-info { 
     display: none;
 }
+
+@media only screen and (max-with: 748px) {
+    #redeem-v2 .left img {
+        width: 50%;
+        height: 50%;
+    }
+}
