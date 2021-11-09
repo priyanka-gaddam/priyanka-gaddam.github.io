@@ -140,14 +140,14 @@
 
 @media only screen and (max-with: 748px) {
     #redeem-v2 .left img {
-        width: 50%;
-        height: 50%;
+        width: 50% !important;
+        height: 50% !important;
     }
 }
 
 @media only screen and (max-width: 510px) {
     redeem-v2 #review .buttons {
         text-align: left !important;
-        width: 55%;
+        width: 55% !important;
     }
 }

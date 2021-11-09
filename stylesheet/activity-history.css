@@ -33,9 +33,9 @@ p, span {
         border-color: #00AF41 !important;
         border-radius: 4px !important;
         color: #00AF41 !important;
-        width: auto;
-        text-align: center;
-        margin-left: 30%;
-        margin-right: 30%;
+        width: auto !important;
+        text-align: center !important;
+        margin-left: 30% !important;
+        margin-right: 30% !important;
     }
 }
