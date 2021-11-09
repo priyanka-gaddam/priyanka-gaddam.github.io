@@ -26,3 +26,16 @@ p, span {
     border-radius: 4px !important;
     color: #00AF41 !important;
 }
+
+@media only screen and (max-width: 537px) {
+    #activity-history .btn.show-more {
+        background-color: #FFFFFF !important;
+        border-color: #00AF41 !important;
+        border-radius: 4px !important;
+        color: #00AF41 !important;
+        width: auto;
+        text-align: center;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+}
