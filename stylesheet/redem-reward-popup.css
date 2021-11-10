@@ -146,7 +146,7 @@
 }
 
 @media only screen and (max-width: 510px) {
-    redeem-v2 #review .buttons {
+    #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 55% !important;
     }
