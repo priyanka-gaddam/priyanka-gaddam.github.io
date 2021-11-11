@@ -140,8 +140,15 @@
 
 @media (max-width: 748px) {
     #redeem-v2 .left img {
-        width: 50% !important;
-        height: 50% !important;
+        width: 50% ;
+        height: 50% ;
+    }
+}
+
+@media (min-width: 749px) {
+    #redeem-v2 .left img {
+        width: 50% ;
+        height: auto;
     }
 }
 
