@@ -138,7 +138,7 @@
     display: none;
 }
 
-/* @media only screen and (max-width: 748px) {
+@media (min-width: 676px) and (max-width: 748px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 28% !important;
@@ -150,51 +150,51 @@
     }
 }
 
-@media only screen and (max-width: 675px) {
+@media (min-width: 634px) and (max-width: 675px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 30% !important;
     }
 }
 
-@media only screen and (max-width: 633px) {
+@media (min-width: 555px) and (max-width: 633px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 35% !important;
     }
 }
 
-@media only screen and (max-width: 554px) {
+@media (min-width: 511px) and (max-width: 554px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 40% !important;
     }
 }
 
-@media only screen and (max-width: 510px) {
+@media (min-width: 460px) and (max-width: 510px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 45% !important;
     }
 }
 
-@media only screen and (max-width: 459px) {
+@media (min-width: 429px) and (max-width: 459px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 50% !important;
     }
 }
 
-@media only screen and (max-width: 428px) {
+@media (min-width: 387px) and (max-width: 428px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 55% !important;
     }
 }
 
-@media only screen and (max-width: 386px) {
+@media (max-width: 386px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 60% !important;
     }
-} */
+}
