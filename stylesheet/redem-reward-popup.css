@@ -194,7 +194,7 @@
     }
 }
 
-@media (max-width: 386px) {
+@media (min-width: 100px) and (max-width: 386px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 60% !important;
