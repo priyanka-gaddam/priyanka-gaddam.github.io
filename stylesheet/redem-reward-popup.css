@@ -138,12 +138,12 @@
     display: none;
 }
 
-/* @media (max-width: 748px) {
+@media (min-width: 100px) and (max-width: 748px) {
     #redeem-v2 .left img {
-        width: 50% ;
-        height: 50% ;
+        width: 50%;
+        height: 50%;
     }
-} */
+}
 
 @media (min-width: 749px) {
     #redeem-v2 .left img {
