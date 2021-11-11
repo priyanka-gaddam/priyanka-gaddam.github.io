@@ -138,7 +138,7 @@
     display: none;
 }
 
-@media (max-with: 748px) {
+@media (max-width: 748px) {
     #redeem-v2 .left img {
         width: 50% !important;
         height: 50% !important;
