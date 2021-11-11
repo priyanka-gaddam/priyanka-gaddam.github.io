@@ -143,72 +143,14 @@
     height: auto;
 }
 
+#redeem-v2 #review .buttons {
+    width: none;
+    display: inline-block;
+}
+
 @media (min-width: 100px) and (max-width: 748px) {
     #redeem-v2 .left img {
         width: 50%;
         height: 50%;
     }
 }
-
-/* @media (min-width: 749px) and (max-width: 2048px) {
-    #redeem-v2 .left img {
-        width: 200px!important;
-        height: auto;
-    }
-} */
-
-/* @media (min-width: 676px) and (max-width: 748px) {
-    #redeem-v2 #review .buttons {
-        text-align: left !important;
-        width: 28% !important;
-    }
-}
-
-@media (min-width: 634px) and (max-width: 675px) {
-    #redeem-v2 #review .buttons {
-        text-align: left !important;
-        width: 30% !important;
-    }
-}
-
-@media (min-width: 555px) and (max-width: 633px) {
-    #redeem-v2 #review .buttons {
-        text-align: left !important;
-        width: 35% !important;
-    }
-}
-
-@media (min-width: 511px) and (max-width: 554px) {
-    #redeem-v2 #review .buttons {
-        text-align: left !important;
-        width: 40% !important;
-    }
-}
-
-@media (min-width: 460px) and (max-width: 510px) {
-    #redeem-v2 #review .buttons {
-        text-align: left !important;
-        width: 45% !important;
-    }
-}
-
-@media (min-width: 429px) and (max-width: 459px) {
-    #redeem-v2 #review .buttons {
-        text-align: left !important;
-        width: 50% !important;
-    }
-}
-
-@media (min-width: 387px) and (max-width: 428px) {
-    #redeem-v2 #review .buttons {
-        text-align: left !important;
-        width: 55% !important;
-    }
-}
-
-@media (min-width: 100px) and (max-width: 386px) {
-    #redeem-v2 #review .buttons {
-        text-align: left !important;
-        width: 60% !important;
-    }
-} */
