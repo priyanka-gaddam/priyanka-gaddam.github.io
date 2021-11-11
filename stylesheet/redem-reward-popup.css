@@ -138,15 +138,17 @@
     display: none;
 }
 
+@media (max-with: 748) {
+    #redeem-v2 .left img {
+        width: 50% !important;
+        height: 50% !important;
+    }
+}
+
 @media (min-width: 676px) and (max-width: 748px) {
     #redeem-v2 #review .buttons {
         text-align: left !important;
         width: 28% !important;
-    }
-
-    #redeem-v2 .left img {
-        width: 50% !important;
-        height: 50% !important;
     }
 }
 
