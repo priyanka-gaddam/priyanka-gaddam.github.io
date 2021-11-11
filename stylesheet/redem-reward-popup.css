@@ -147,7 +147,7 @@
 
 @media (min-width: 749px) {
     #redeem-v2 .left img {
-        width: 200px;
+        width: 200px!important;
         height: auto;
     }
 }
