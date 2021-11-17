@@ -1,0 +1,12 @@
+.widget .header { 
+    background-color: white !important;
+    border-bottom: none !important;
+    top: 15px !important;
+}
+
+.widget .header h1, .widget .header h3 { 
+    color: black !important;
+    font-family: 'Effra Heavy', sans-serif !important;
+    font-size: 20px !important;
+    text-transform: capitalize !important;
+}
