@@ -49,7 +49,7 @@
     border-radius: 4px !important;
     float: right !important;
     text-transform: capitalize !important;
-    margin-top: 5px !important;
+    margin: 5px !important;
 }
 
 #redeem-v2 #review .buttons .btn.btn-danger, #redeem-v2 #review .buttons a.btn.btn-danger {
