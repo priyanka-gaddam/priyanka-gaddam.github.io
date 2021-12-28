@@ -52,3 +52,37 @@ p, span {
         margin-right: 20% !important;
     }
 }
+
+
+#activity-history-v2 .btn.show-more {
+    background-color: #FFFFFF !important;
+    border-color: #00AF41 !important;
+    border-radius: 4px !important;
+    color: #00AF41 !important;
+}
+
+@media only screen and (max-width: 537px) {
+    #activity-history-v2 .btn.show-more {
+        background-color: #FFFFFF !important;
+        border-color: #00AF41 !important;
+        border-radius: 4px !important;
+        color: #00AF41 !important;
+        width: auto !important;
+        text-align: center !important;
+        margin-left: 30% !important;
+        margin-right: 30% !important;
+    }
+}
+
+@media only screen and (max-width: 368px) {
+    #activity-history-v2 .btn.show-more {
+        background-color: #FFFFFF !important;
+        border-color: #00AF41 !important;
+        border-radius: 4px !important;
+        color: #00AF41 !important;
+        width: auto !important;
+        text-align: center !important;
+        margin-left: 20% !important;
+        margin-right: 20% !important;
+    }
+}
