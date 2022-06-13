@@ -63,6 +63,7 @@
 
 #activity-list-v2 .points-container {
     text-align: center!important;
+    display: none;
 }
 
 .ct-link-color {
