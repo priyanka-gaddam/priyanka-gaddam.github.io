@@ -148,3 +148,98 @@
         height: 50%;
     }
 }
+
+.ct-reward-575287 h3.ct-header-text-color {
+    visibility: hidden;
+  }
+  
+  .ct-reward-575287 h3.ct-header-text-color::before {
+    content: "Donate Points";
+    visibility: visible;
+  }
+  
+  .ct-reward-575287 label[for="quantity"]{
+    visibility: hidden;
+    position: relative;
+  }
+  
+  .ct-reward-575287 label[for="quantity"]::before{
+    content: "Donation Value";
+    visibility: visible;
+  }
+  
+  .ct-reward-575287 label[for="quantity"]::after{
+    content: "$";
+    position: absolute;
+    left: 0;
+    top: 25px;
+    visibility: visible;
+  }
+  
+  .ct-reward-575287 select#quantity {
+    margin-left: 10px;
+    margin-top: 6px;
+  }
+  .ct-reward-575659 h3.ct-header-text-color {
+    visibility: hidden;
+  }
+   
+  .ct-reward-575659 h3.ct-header-text-color::before {
+    content: "Donate Points";
+    visibility: visible;
+  }
+   
+  .ct-reward-575659 label[for="quantity"]{
+    visibility: hidden;
+    position: relative;
+  }
+   
+  .ct-reward-575659 label[for="quantity"]::before{
+    content: "Donation Value";
+    visibility: visible;
+  }
+   
+  .ct-reward-575659 label[for="quantity"]::after{
+    content: "$";
+    position: absolute;
+    left: 0;
+    top: 25px;
+    visibility: visible;
+  }
+   
+  .ct-reward-575659 select#quantity {
+    margin-left: 10px;
+    margin-top: 6px;
+  }
+  
+  .ct-reward-574873 h3.ct-header-text-color {
+    visibility: hidden;
+  }
+   
+  .ct-reward-574873 h3.ct-header-text-color::before {
+    content: "Donate Points";
+    visibility: visible;
+  }
+   
+  .ct-reward-574873 label[for="quantity"]{
+    visibility: hidden;
+    position: relative;
+  }
+   
+  .ct-reward-574873 label[for="quantity"]::before{
+    content: "Donation Value";
+    visibility: visible;
+  }
+   
+  .ct-reward-574873 label[for="quantity"]::after{
+    content: "$";
+    position: absolute;
+    left: 0;
+    top: 25px;
+    visibility: visible;
+  }
+   
+  .ct-reward-574873 select#quantity {
+    margin-left: 10px;
+    margin-top: 6px;
+  }
