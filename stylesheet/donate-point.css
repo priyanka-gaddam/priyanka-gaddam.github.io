@@ -7,7 +7,6 @@
     max-width: 100%;
     display: block;
     margin: 0 auto;
-    width: fit-content;
 }
 
 #reward-list-v2 .rewards .reward {
@@ -31,7 +30,7 @@
 }
 
 #reward-list-v2 .rewards .reward .content .title { 
-    text-align: left !important;
+    text-align: center !important;
 }
 
 #reward-list-v2 .rewards .reward .content .title,
