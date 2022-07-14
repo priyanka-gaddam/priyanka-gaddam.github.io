@@ -90,3 +90,7 @@
         text-align: center;
     }
 }
+
+#activity-list-v2 .tab-content #loyalty-program-tab-content{
+    float: left;
+}
